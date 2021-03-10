@@ -1,0 +1,57 @@
+/*Códigos CSS para a formatação do layout da view de login.
+---------------------------------------------------------------------------------------------------------------------*/
+
+h3 {
+	margin-top: 70px;
+	color: #0080c0;
+}
+
+hr {
+	border-color: #BEBEBE;
+}
+
+
+#tdId,
+#tdNome,
+#tdEmail,
+#tdTipo,
+#tdSetor,
+#tdAcoes,
+#tdDataCriacao,
+#tdDtAbertura,
+#tdDtEncerramento,
+#txtDataInclusao,
+#txtDataAbertura,
+#txtDataEncerramento,
+#txtDataPrevistaEncerramento,
+#txtStatus,
+#txtData {
+	
+	text-align: center;	
+}
+
+#accordion{
+	margin-top: 70px;
+}
+
+#opcoesModal {
+	color: red;
+}
+
+#txtDataInclusao,
+#txtDataAbertura,
+#txtDataEncerramento,
+#txtDataPrevistaEncerramento,
+#txtStatus,
+#txtTitulo,
+#txtColaboradorCriador,
+#slcColaborador,
+#txtTag,
+#txtDescricao,
+#txtLogin,
+#txtSenha,
+#txtConfirmaSenha,
+#txtData {
+		
+	background-color:  white;
+}

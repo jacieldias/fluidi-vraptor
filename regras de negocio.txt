@@ -1,0 +1,8 @@
+TAREFA
+------
+
+-A data prevista de encerramento nao pode ser menor que a data de abertura
+-Nao permitir criar tarefa com data retroativa (Ok - feito)
+-Permitir salvar uma tarefa sem descricao (Ok - feito)
+-Ao salvar uma nova tarefa inseri-la como PENDENTE (Ok - feito)
+-O status da tarefa so muda quando o usuario informar que esta em andamento ou finaliza-la

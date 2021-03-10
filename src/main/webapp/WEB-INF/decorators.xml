@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<decorators defaultdir="/decorators">
+	
+	<!-- Com a tag excludes é possível indicar quais urls não irão receber layout -->
+	
+	<excludes>
+		<pattern>/login*</pattern>
+		<pattern>*_format=json</pattern>
+		<pattern>*_format=xml</pattern>
+	</excludes>
+	
+	<decorator name="LayoutPrincipal" page="LayoutPrincipal.jsp">
+		
+		<pattern>/index</pattern>
+		<pattern>/setor/*</pattern>
+		<pattern>/colaborador/*</pattern>
+		<pattern>/tarefa/*</pattern>	
+		<pattern>/aviso/*</pattern>
+		<pattern>/norma/*</pattern>			
+		<pattern>/canal/*</pattern>
+		<pattern>/workflow/*</pattern>
+		<pattern>/statusDemanda/*</pattern>
+	</decorator>
+</decorators>

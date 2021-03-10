@@ -1,0 +1,39 @@
+Aqui est�o itens de backlog a serem feitos posteriormente
+---------------------------------------------------------
+
+-Ao cadastrar um novo colaborador, checar se j� existe um outro colaborador
+ com o mesmo login.
+
+-Traducao do Tinymce - (OK - Feito)
+
+-Design da tela de login (OK - Feito)
+
+-Definir o tempo que um aviso vai ficar disponível no quadro principal
+
+-Futuramente trocar campo de datas por DatePickers
+
+-Ao cadastrar uma tarefa para um colaborador enviar um email notificando.
+
+-Criar a opção de protocolo de correspondencias
+
+-Cadastro de empresa, para que possa interligar várias filiais
+
+-Criar perfil para os colaboradores, com foto, cargo, empresa a qual pertence.
+
+-Colocar numero de telefone e whatsapp do colaborador
+
+-Formulário padrão (Ex: Documentos para assinar carteira)
+
+-Priorizar tarefas
+
+-Verificar a combobox na tela de alterar colaborador não traz as opções de setor  (OK Feito)
+
+-Validar na página de nova tarefa a validação para a comparação se a data final é menor que a data inicial.
+
+-Criar Menu de Ouvidoria
+
+-Criar mecanismos para que usuários Administradores possam ver quais colaboradores estão com tarefas atrasadas.
+
+-Criação de Canais(públicos ou privados) para criação de tarefas, normas, avisos e etc.
+
+-Realizar pesquisas de opinião com os colaboradores.
